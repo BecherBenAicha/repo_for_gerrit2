@@ -4,12 +4,8 @@ init setting file
 
 <set2>
 adding setting_2 to file
-<<<<<<< PATCH SET (6b5e3d add set_3)
 </set2>
 
 <set3>
 adding setting_3 to file
 </set3>
-=======
-</set2>
->>>>>>> BASE      (079cd3 add set_2)
